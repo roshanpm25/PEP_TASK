@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(132deg, rgb(146, 11, 126) 0.00%, rgb(52, 29, 49) 100.00%);}  img {
+    width: 100%;
+  }
+  .photo-grid-container {
+    column-count: 5;
+    column-width: 300px;
+  }
+  .photo-grid-item {
+    margin: 0 auto 25px;
+    max-width: 400px;
+    width: 100%;
+     
+   
+  }
+  .photo-grid-item:hover{
+    border: 5px silver solid;
+   
+    
+      }
